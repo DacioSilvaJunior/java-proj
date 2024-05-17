@@ -18,4 +18,11 @@ Record the information regarding the anime in a file.
 
 Read the file containing information regarding the anime and display it to the user.
 
-*Future implementations should include the ability for each file to be associated with a specific user and provide recommendations based on the anime titles in their lists.
+*Future implementations should include the ability for each file to be associated with a specific user and provide 
+recommendations based on the anime titles in their lists.
+
+by : Dacio da silva and Humbert Mota
+
+
+
+
